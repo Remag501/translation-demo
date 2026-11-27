@@ -1,0 +1,19 @@
+# Build directories and compiled binaries (matches in all subdirectories)
+bin/
+build/
+
+# Compiled Object files and header dependencies (safety net)
+*.o
+*.d
+
+# Executables
+*.out
+*.exe
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
